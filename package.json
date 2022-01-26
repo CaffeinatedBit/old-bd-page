@@ -1,0 +1,19 @@
+{
+  "name": "binarydigitdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "particles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebinarydigit/binarydigitdev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebinarydigit/binarydigitdev/issues"
+  },
+  "homepage": "https://github.com/thebinarydigit/binarydigitdev#readme"
+}
