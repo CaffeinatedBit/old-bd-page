@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thebinarydigit/binarydigitdev/issues"
   },
-  "homepage": "https://github.com/thebinarydigit/binarydigitdev#readme"
+  "homepage": "https://github.com/thebinarydigit/binarydigitdev#readme",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
 }
