@@ -1,6 +1,7 @@
 # Redirects from what the browser requests to what we serve
 /discord	https://discord.com/invite/uA8W7jPjZ9
+/tumblr     https://binarydigit.tumblr.com
+/flickr     https://flickr.com/photos/binarydigit
 /notebook	https://binarydigit.notion.site/Blog-a5fb3e36e0514adba6d8189f9b152436
 /commands   https://binarydigit.notion.site/Twitch-Chat-Commands-63133152e2b34dccb1c8a6a6da0fdd63
 /mods       https://binarydigit.notion.site/Mod-Twitch-Chat-Commands-8f4ac1f9622443a6b914e0421fd024ae
-/flickr     https://flickr.com/photos/binarydigit
